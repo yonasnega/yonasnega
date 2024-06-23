@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yonasnega
 - 👀 I’m interested in expanding my knowgelde in python and JAVA!
-- 🌱 I’m currently learning the basics of code 
-- 💞️ I’m looking to collaborate on fun projects that will help me  get a better understanding of coding in gerneral
-- 📫 How to reach me on Twitter @The30th_YWR
+- 🌱 I’m currently learning to take the basics of code and implement them to make my life easier (hopefully)
+- 💞️ I’m looking to collaborate on fun projects that will help us get a better understanding of coding
 
 <!---
 yonasnega/yonasnega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
